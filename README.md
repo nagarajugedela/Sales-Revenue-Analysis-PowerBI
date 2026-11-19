@@ -6,6 +6,10 @@ The **Sales & Revenue Analysis Dashboard** is an interactive data visualization 
 
 The dashboard helps users understand business performance through interactive charts, KPI cards, and slicers.
 
+## 📷 Dashboard Preview
+
+<img src="https://github.com/user-attachments/assets/16f23d80-6f83-449d-ae7d-129a9ecee413" alt="Sales and Revenue Analysis dashboard">
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales and revenue performance.
